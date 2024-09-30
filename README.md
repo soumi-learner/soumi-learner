@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @soumi-learner
-- 👀 I’m interested in python and web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python project
+- 👋 Hi, I’m @Sayantan
 - 📫 How to reach me soumi97bag@gmail.com
 
 <!---
