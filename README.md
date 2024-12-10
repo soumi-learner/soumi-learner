@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayantan
+- 👋 Hi, I’m @Sayantani
 - 📫 How to reach me soumi97bag@gmail.com
 
 <!---
