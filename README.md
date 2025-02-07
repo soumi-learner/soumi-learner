@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Sayantani
-- 📫 How to reach me soumi97bag@gmail.com
+📫 Let's Connect!
+📩 Email: soumi97bag@gmail.com
+🌍 GitHub: @soumi-learner
 
-<!---
-soumi-learner/soumi-learner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love collaborating on open-source projects and learning new technologies. Feel free to connect! 🚀😊
